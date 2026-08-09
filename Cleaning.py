@@ -15,3 +15,7 @@ object_["year_of_experience"].fillna(object_["year_of_experience"].mean(), impla
 object_["salary"].fillna(object_["salary"].mean(), implace = True)
 object_["performance_ratio"].fillna(object_["performance_ratio"].mean(), implace = True)
 object_["year_of_experience"].fillna(object_["year_of_experience"].median(), implace = True)
+
+#filling infinite values , negative values 
+object_.replace([np.inf, -np.inf] , np.nan, inplace=True)
+object_.fillna(object_.mean(), inplace=True)
