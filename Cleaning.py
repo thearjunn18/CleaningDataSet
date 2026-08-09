@@ -19,3 +19,7 @@ object_["year_of_experience"].fillna(object_["year_of_experience"].median(), imp
 #filling infinite values , negative values 
 object_.replace([np.inf, -np.inf] , np.nan, inplace=True)
 object_.fillna(object_.mean(), inplace=True)
+
+#creating new file 
+object_.to_csv("Cleaned_DataSet.csv", index=False)
+print("Data cleaning is completed ")
