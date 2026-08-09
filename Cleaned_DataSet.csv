@@ -1,0 +1,31 @@
+year_of_experience,name,age,salary,department,city,performance_ratio,country
+9.3,Aarav Sharma,30.0,132403.0,Marketing,Mumbai,0.67,Canada
+10.3,Vivaan Singh,39.0,107326.0,Operations,Jaipur,1.15,Australia
+0.5,Aditya Kumar,38.5,158250.0,Engineering,Chennai,0.92,Australia
+3.1,Arjun Mehta,36.0,128936.0,IT,Pune,0.75,Singapore
+9.8,Rohan Gupta,21.0,120044.0,Marketing,Kolkata,0.81,UK
+15.0,Kabir Verma,33.0,128936.0,Marketing,Kolkata,1.11,Australia
+75.0,Ishaan Patel,38.0,128936.0,Sales,Hyderabad,0.46,Germany
+16.1,Ananya Rao,32.0,104675.0, it ,Kolkata,1.01,Canada
+13.0,Diya Shah,36.0,134710.0,,Mumbai,0.74,USA
+3.4,Meera Nair,54.0,34056.0,Operations,Kolkata,0.8300000000000001,Canada
+10.0,Aisha Khan,38.5,92567.0,Engineering,Kolkata,1.22,Singapore
+9.8,Priya Iyer,45.0,79147.0,Finance,Delhi,0.77,Germany
+3.3,Sneha Kapoor,38.5,134677.0,Sales,Noida,0.67,UK
+14.1,Riya Malhotra,51.0,123550.0,FINANCE,Hyderabad,0.78,Singapore
+17.4,Neha Joshi,31.0,128936.0,HR,Gurugram,0.79,Singapore
+4.2,Karan Bansal,41.0,136853.0,Finance,Mumbai,0.8300000000000001,USA
+1.5,Rahul Sethi,48.0,173300.0,Engineering, delhi,1.01,Australia
+9.8,Yash Agarwal,29.0,219684.0,Operations,Delhi,0.72,Germany
+13.1,Dev Mishra,43.0,177351.0,Marketing,,1.1,Australia
+5.0,Manav Jain,47.0,9999999.0,Engineering,Chennai,0.54,Singapore
+12.3,Sahil Arora,44.0,66047.0,Operations,Delhi,0.8300000000000001,India
+9.3,Simran Kaur,43.0,163346.0,Marketing,MUMBAI ,0.71,India
+0.9,Tanya Das,30.0,202483.0,Data Analytics,Jaipur,0.85,
+2.5,Nikhil Roy,23.0,105213.0,Data Analytics,Bengaluru,0.92,india
+3.4,  Rahul Sethi ,39.0,83294.0,Marketing,Delhi,0.87,Germany
+17.9,Varun Mehta,38.5,121694.0,Finance,Kolkata,1.22,UK
+9.4,Ankit Jain,32.0,126764.0,Data Analytics,Bengaluru,1.22, USA 
+10.4,Kriti Gupta,31.0,191782.0,Engineering,Pune,0.8300000000000001,Australia
+13.2,PRIYA IYER,51.0,59469.0,Sales,Mumbai,0.61,Canada
+9.8,Rohan  Gupta,49.0,188869.0,Marketing,Bengaluru,0.87,Singapore
